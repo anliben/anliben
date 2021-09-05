@@ -49,11 +49,3 @@
 </p>
 <p align = "left"> <img src="https://komarev.com/ghpvc/?username=anliben&label=Profile%20views&color=0e75b6&style=flat" alt =" anliben "/> </p>
 
-<p align =" left ">  <img src="https://github-profile-trophy.vercel.app/?username=anliben" alt = "anliben" /></p>
-
-
-<p> <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anliben&show_icons=true&locale=pt-br&layout=compact" alt=" anliben "/> </p>
-
-<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=anliben&show_icons=true&locale=en" alt=" anliben "/> </p>
-
-<p> <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=anliben&" alt = "anliben" /> </p>
