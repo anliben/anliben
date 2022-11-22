@@ -1,17 +1,5 @@
 ## Oiii me chamo Joao Victor e sou desenvolvedor Pleno em Javascript
 <div align="center">
-  <a href="https://github.com/anliben">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anliben&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anliben&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt=" Joao Victor " width=" 40 " height=" 40 " />
-   <img src="https://www.chartjs.org/media/logo-title.svg" alt=" chartjs " width=" 40 " height=" 40 " /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt=" csharp " width=" 40 " height=" 40 " />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django " width=" 40 " height=" 40 " />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt=" docker " width=" 40 " height=" 40 " /> 
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt=" express " width=" 40 " height=" 40 " />
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt=" firebase " width=" 40 " height=" 40 " />
