@@ -1,6 +1,4 @@
-### Hi, I'm Joao Victor, a senior JavaScript developer. I specialize in using various JS frameworks and libraries to build top-notch web apps and mobile. Always keeping up with the latest trends and tech for the best results.
 
-##
 ## Stats
 <div>
   <a href="https://github.com/anliben" style="text-decoration:none">
